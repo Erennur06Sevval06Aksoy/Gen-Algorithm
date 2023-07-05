@@ -1,0 +1,11 @@
+C:\Users\aksoy\OneDrive\Masaüstü\Biyoinformatik\Gen-Algoritması\Gen-Algoritması\bin\Debug\Gen-Algoritması.exe.config
+C:\Users\aksoy\OneDrive\Masaüstü\Biyoinformatik\Gen-Algoritması\Gen-Algoritması\bin\Debug\Gen-Algoritması.exe
+C:\Users\aksoy\OneDrive\Masaüstü\Biyoinformatik\Gen-Algoritması\Gen-Algoritması\bin\Debug\Gen-Algoritması.pdb
+C:\Users\aksoy\OneDrive\Masaüstü\Biyoinformatik\Gen-Algoritması\Gen-Algoritması\obj\Debug\Gen-Algoritması.csprojResolveAssemblyReference.cache
+C:\Users\aksoy\OneDrive\Masaüstü\Biyoinformatik\Gen-Algoritması\Gen-Algoritması\obj\Debug\Gen_Algoritması.Form1.resources
+C:\Users\aksoy\OneDrive\Masaüstü\Biyoinformatik\Gen-Algoritması\Gen-Algoritması\obj\Debug\Gen_Algoritması.Properties.Resources.resources
+C:\Users\aksoy\OneDrive\Masaüstü\Biyoinformatik\Gen-Algoritması\Gen-Algoritması\obj\Debug\Gen-Algoritması.csproj.GenerateResource.Cache
+C:\Users\aksoy\OneDrive\Masaüstü\Biyoinformatik\Gen-Algoritması\Gen-Algoritması\obj\Debug\Gen-Algoritması.exe
+C:\Users\aksoy\OneDrive\Masaüstü\Biyoinformatik\Gen-Algoritması\Gen-Algoritması\obj\Debug\Gen-Algoritması.pdb
+C:\Users\aksoy\OneDrive\Masaüstü\Biyoinformatik\Gen-Algoritması\Gen-Algoritması\obj\Debug\Gen_Algoritması.Form2.resources
+C:\Users\aksoy\OneDrive\Masaüstü\Biyoinformatik\Gen-Algoritması\Gen-Algoritması\obj\Debug\Gen_Algoritması.Form3.resources
